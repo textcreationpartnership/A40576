@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the taking of the city of Mentz, by the imperial and confederate army</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40576</idno>
+            <idno type="STC">Wing F2311B</idno>
+            <idno type="STC">ESTC R11319</idno>
+            <idno type="EEBO-CITATION">13791279</idno>
+            <idno type="OCLC">ocm 13791279</idno>
+            <idno type="VID">101846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the taking of the city of Mentz, by the imperial and confederate army</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Advertisements on p. 2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mainz (Rhineland-Palatinate, Germany) --  History --  Siege, 1689.</term>
+               <term>Broadsides --  England --  London --  17th centruy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101846:1"/>
+            <head>A Full and True ACCOUNT Of the Taking the City of Mentz, BY THE Imperial and Confederate ARMY.</head>
+            <argument>
+               <p>Licenſed ano Entred according to Order.</p>
+            </argument>
+            <p>
+               <hi>MENTZ</hi> being Attack'd on the <hi>Sixth</hi> Inſtant by Four a Clock in the Morning, the <hi>Saxon</hi> and <hi>Heſſian</hi> Troops maſtered the Counterſcarp two Hours ſooner than, the <hi>Imperialists;</hi> but with the loſs of a conſiderable Number of Men; the <hi>French</hi> ſpringing a Mine in the midſt of the Action, where<g ref="char:EOLhyphen"/>by ſeveral of the <hi>Heſſians</hi> were blown up: But, nevertheleſs, after a very ſharp Diſpute, the Confederates made themſelves Maſters of all the Outworks, ſaving one ſmall Fortreſs, which being Attack'd and Won by ſome Sutlers, the Fifty <hi>French</hi> that were in it were all put to the Sword: And indeed, in the whole Action the <hi>Germans</hi> gave no Quarter. After this, the <hi>Confederates</hi> Entrench'd, and maintained themſelves in their Acquiſitions. As to the Number of the Common Soldiers Killed and Wounded in this Action, we cannot as yet give an Account; But have the following Liſt of the Officers: Collonel <hi>Geriz</hi> ſhot through the Body: General <hi>Souches</hi> wounded; Gene<g ref="char:EOLhyphen"/>ral <hi>Wallis</hi> Dead; General <hi>Staremberg</hi> Wounded; both the Legs of Count <hi>Lomb<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g</hi> ſhot off; Collonel <hi>Schench</hi> twice Wound<g ref="char:EOLhyphen"/>ed; Collonel <hi>Butler</hi> twice Wounded; Major <hi>Loweſtein</hi> Wound<g ref="char:EOLhyphen"/>ed through the Foot; Cap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain <hi>Mey</hi> Wounded in the Calf of the Leg; Captain <hi>Buſch</hi> Wounded in the Body; Captain <hi>Schinck</hi> Wounded in the Arm; The Captains <hi>Valentyne, Mohn,</hi> and <hi>Cramer</hi> Dead; Lieutenant <hi>Freyberg</hi> and <hi>Heyxmar</hi> Wounded,
+<pb n="2" facs="tcp:101846:2"/> and more other Officers. The Confederates being thus Maſters of all the Outworks, fell to Batter the Walls inceſſantly, with between Twenty and Thirty Pieces of Cannon, in order to en<g ref="char:EOLhyphen"/>large the Breach, tho it was already ſo wide, that they could ſee plainly into the Streets. The <hi>7th</hi> was employ'd by them in filling up the Ditches with Bavins, Wool-packs, and the like; and having on the <hi>Eighth</hi> made all the other neceſſary Prepara<g ref="char:EOLhyphen"/>tions for a General Aſſault; the Confederates being recruited with Eight Thouſand freſh Men under the Duke of <hi>Ha<g ref="char:EOLhyphen"/>nover,</hi> and General <hi>Chauvet;</hi> and the <hi>French,</hi> in Defence of their Outworks, having loſt Fifteen Hundred of their Beſt Men, though the Gariſon at firſt conſiſted of between Nine and Ten Thouſand Men, The <hi>French</hi> Governor, the Marquis <hi>d' <g ref="char:V">Ʋ</g>xelles</hi> deſpairing of being able to withſtand a General Aſ<g ref="char:EOLhyphen"/>ſault, hung out the White Flag on the Ninth, capitulated, and was ſurrendring; But as yet we are Strangers to the Condi<g ref="char:EOLhyphen"/>tions, though they write, the <hi>Germans</hi> are ſo embittered a<g ref="char:EOLhyphen"/>gainſt the <hi>French,</hi> that the General Officers will find it a hard matter to with-hold them from cutting them to pieces. This City has been compleatly beſieged no longer than Thirteen Days, and which is ſince the time that the <hi>Saxon</hi> Battery was ready.</p>
+            <closer/>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>They write us, That juſt upon the coming away of the Poſt from <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> they had advice, that the Governour General of the <hi>Spaniſh</hi> Low-Countries had entred the <hi> French</hi> General <hi>Calvo's</hi> Retrench<g ref="char:EOLhyphen"/>ments which the <hi>French</hi> had abandoned in ſuch Diſorder, that they had even left their Pots boiling; and a vaſt Quantity of Provi<g ref="char:EOLhyphen"/>ſions. That another <hi>Spaniſh</hi> General, the Prince of <hi>Vaudemont,</hi> was out with a great Body of Men upon ſome conſiderable Deſign; and that the Mareſchal <hi>d'Humiers</hi> retreated before the Prince of <hi>Waldeck.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>
+               <hi>The Hiſtory of</hi> Guſtavus Adolphus, <hi>ſirnamed</hi> The Great, <hi>K<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g of</hi> Sweden; <hi>Together with the Life and Reign of His Succeſſor after</hi> Chriſtina, Carolus Gu<g ref="char:EOLhyphen"/>ſtavus, <hi>Count Palatine. Tranſlated out of</hi> French <hi>by</hi> Ferrand Spence, <hi>Servant to Their Majeſties. Sold by</hi> R. Clavel, W. Nott, D. Newman, T. Dring, S. Crouch, J. Hindmarſh, <hi>and</hi> R. Bentley, <hi>and moſt other Bookſellers.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Dilucidator: <hi>Or, Reflections upon Modern Tranſactions, by way of Letter from a Perſon at</hi> Amſterdam <hi>to his Friend in</hi> London. <hi>Publiſhed Weekly. Sold by</hi> Randall Taylor <hi>near</hi> Stationers-Hall.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
